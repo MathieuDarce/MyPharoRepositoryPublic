@@ -9,3 +9,8 @@ Class {
 MyPharoClass >> test [
 	^ 'test'
 ]
+
+{ #category : 'tests' }
+MyPharoClass >> test2 [
+	^ 'test2'
+]
